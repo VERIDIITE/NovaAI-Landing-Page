@@ -2,6 +2,10 @@
 
 A modern, responsive landing page for AI products and services built with React and TypeScript.
 
+> 🔗 **Live Website:** [https://veridiite.github.io/kasam-portfolio](https://nova-ai-landing-page-cvth7vs8m-veridiites-projects.vercel.app/)
+
+---
+
 ![AI Landing Page](AI.png)
 ![AI Landing Page](A11.png)
 
