@@ -1,15 +1,16 @@
-# NOVAAI Landing Page 🚀
+# NovaAI Landing Page 🚀
 
 A modern, responsive landing page for AI products and services built with React and TypeScript.
 
-![AI Landing Page](/api/placeholder/800/400 "AI Landing Page Preview")
+![AI Landing Page](AI.png)
+![AI Landing Page](A11.png)
 
 ## 🌟 Features
 
 - **Fully Responsive Design**: Looks great on all devices from mobile to desktop
 - **TypeScript Integration**: Type-safe code for better development experience
 - **Modern React Patterns**: Built with functional components and hooks
-- **Optimized Performance**: Fast loading and smooth animations
+- **Optimized Dark Mode & Light Mode**: Fast loading and smooth animations
 - **Customizable Sections**: Easy to modify content and layout
 
 ## 🛠️ Tech Stack
