@@ -1,14 +1,14 @@
 import { Container } from "../shared/Container";
-import Logo from "../../assets/icon.svg";
+import Logo from "/assets/icon.svg";
 import { NavItem } from "../sections/NavItem";
 import { BtnLink } from "../sections/BtnLink";
 import { useThemeStore } from "../../store/ThemeStore";
 
-const navItems = [
+export const navItems = [
   { href: "#", text: "Home" },
   { href: "#about-us", text: "About" },
   { href: "#services", text: "Services" },
-  { href: "#features", text: "Features" },
+  { href: "#pricing", text: "Pricing" },
 ];
 export const Navbar = () => {
   const { toggleTheme, theme } = useThemeStore();
@@ -48,7 +48,7 @@ export const Navbar = () => {
             </div>
           </div>
 
-          <div className="min-w-max flex items-center gap-x-3">
+          <div className="min-w-max flex items-center gap-x-3 ">
             <button
               onClick={toggleTheme}
               className="outline-hidden flex relative 

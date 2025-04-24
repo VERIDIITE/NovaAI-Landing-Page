@@ -38,7 +38,7 @@ html.dark {
   }
 
   .text-heading-3 {
-    color: rgb(var(--heading-3));
+    color: #rgb(var(--heading-3));
   }
 }
 

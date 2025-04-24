@@ -31,13 +31,13 @@ export const Hero = () => {
             optimize your business processes, saving you time and money.
           </Paragraph>
           <div className="mt-8 w-full flex max-w-md mx-auto lg:mx-0">
-            <div className="flex sm:flex-row flex-col gap-5 w-full">
+            <div className="flex sm:flex-row flex-col gap-5 w-full ">
               <form
                 action="#"
                 className="py-1 pl-6 w-full pr-1 flex gap-3 
                 items-center text-heading-3 shadow-lg shadow-box-shadow 
                 border border-box-border bg-box-bg rounded-full 
-                ease-linear focus-within:bg-body focus-within:border-primary"
+                ease-linear focus-within:bg-body focus-within:border-primary "
               >
                 <span className="min-w-max pr-2 border-r border-box-border">
                   <svg
@@ -70,7 +70,7 @@ export const Hero = () => {
         </div>
         <div className="flex flex-1 lg:w-1/2 lg:h-auto relative lg:max-w-non lg:mx-0 mx-auto max-w-3xl">
           <img
-            src="https://images.pexels.com/photos/7773731/pexels-photo-7773731.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="https://images.pexels.com/photos/26545224/pexels-photo-26545224/free-photo-of-a-3d-model-of-a-ball-on-ice.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Hero image"
             width={2350}
             height={2359}
